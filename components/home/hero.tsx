@@ -7,8 +7,8 @@ export function Hero() {
     <section className="hero">
       <div className="wrap">
         <div>
-          <h1>Gestão clínica para hospitais veterinários</h1>
-          <p className="lead">Prontuário, consultas, procedimentos e prestação de contas institucional em um só sistema, pensado para a rotina real do hospital universitário.</p>
+          <h1>Sistema Integrado de Gestão para Hospitais Veterinários</h1>
+          <p className="lead">Uma plataforma completa de gestão clínica para hospitais veterinários universitários, pensado para operar o hospital no dia a dia e, ao mesmo tempo, facilitar a prestação de contas institucional com qualidade e consistência. Desenvolvido no contexto universitário da UFRPE, o sistema nasceu preparado para a realidade das universidades federais</p>
           <div className="acoes">
             <Link className="btn btn-p" href="/entrar">Teste o SIG-HOVET</Link>
           </div>
